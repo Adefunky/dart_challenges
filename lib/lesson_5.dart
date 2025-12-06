@@ -8,7 +8,6 @@
 double calculateCircularArea({required double radius}) {
   // TODO: Implement this function
   return 3.14159 * radius * radius;
-  throw UnimplementedError();
 }
 
 // CHALLENGE 2: PRIME TIME
@@ -27,7 +26,6 @@ bool isPrime(int number) {
     }
   }
   return true;
-  throw UnimplementedError();
 }
 
 // TEST CASES - Uncomment to test your solutions
